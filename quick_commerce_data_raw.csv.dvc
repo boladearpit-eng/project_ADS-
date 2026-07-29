@@ -1,0 +1,5 @@
+outs:
+- md5: 6a7f0cd837de203e4903399f32def74c
+  size: 2007902
+  hash: md5
+  path: quick_commerce_data_raw.csv
